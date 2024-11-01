@@ -284,6 +284,11 @@ a:focus {
   border-radius: 100%;
 }
 
+.do_section .heading_container h2 {
+  padding: 10px 0; /* Adjust as needed to reduce top and bottom padding */
+  margin-bottom: 10px; /* Fine-tune the space below the heading */
+}
+
 .do_section .do_container .box .img-box img {
   width: 45px;
 }
