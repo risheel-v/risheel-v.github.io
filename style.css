@@ -292,9 +292,7 @@ a:focus {
   margin-top: 15px;
 }
 
-.do_section .do_container .box:hover .img-box {
-  background-color: #fec016;
-}
+
 
 .do_section .do_container .arrow_bg::before {
   content: "";
